@@ -5,7 +5,7 @@ var versionNumber = "0.0.1"
 var content = ""
 
 function welcomeMessage(){
-    var message = "Welcome to You Got This Conf from CircleCI!";
+    var message = "Welcome to You Got This Conf from CircleCI! \n";
     return message;
 }
 
