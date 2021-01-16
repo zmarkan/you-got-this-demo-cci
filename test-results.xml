@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0360" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-12-10T16:05:41" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Welcome to CI/CD Server" timestamp="2020-12-10T16:05:41" tests="0" file="/Users/zmarkan/vscode/nodejs-cicd-workshop/test/test.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GET /" timestamp="2020-12-10T16:05:41" tests="1" file="/Users/zmarkan/vscode/nodejs-cicd-workshop/test/test.js" time="0.0360" failures="0">
+    <testcase name="Welcome to CI/CD Server GET / returns status code 200" time="0.0360" classname="returns status code 200">
+    </testcase>
+  </testsuite>
+  <testsuite name="welcomeMessage" timestamp="2020-12-10T16:05:41" tests="1" file="/Users/zmarkan/vscode/nodejs-cicd-workshop/test/test.js" time="0.0000" failures="0">
+    <testcase name="Welcome to CI/CD Server welcomeMessage Validate Message" time="0.0000" classname="Validate Message">
+    </testcase>
+  </testsuite>
+</testsuites>
